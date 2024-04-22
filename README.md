@@ -46,7 +46,7 @@ I'm a passionate Flutter Developer with a strong background in AI, currently del
   - Docker 🐳
   - Postman 📬
 
-I hope this adds a fun touch to your skills list! If you have any more requests or questions, feel free to ask. 😊
+
 
 <p align="left"> 
     <!-- Icons for various skills -->
