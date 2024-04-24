@@ -39,8 +39,7 @@ I'm a highly skilled Software Engineer with 4+ years of experience in Flutter mo
     * Neural networks, Deep Learning 🧠
     * TensorFlow, TensorFlow Lite, Keras, PyTorch 🧪 
     * AI model integration into Flutter apps 🤖
-* **Data:** 
-    * Preprocessing and analysis (Pandas, NumPy) 📊
+
 * **Tools:**
     * Git, GitHub (Version control) 📚
     * CI/CD for Flutter 🔄
