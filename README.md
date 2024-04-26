@@ -26,7 +26,6 @@ I'm a highly skilled Software Engineer with 4+ years of experience in Flutter mo
 
 * **Languages:** 
     * Dart (Flutter) 🚀
-    * Python (AI, Data Analysis) 🐍
     * Kotlin, Swift, Rust/C++ (potential for Dart FFI)
     * TypeScript (Firebase integration)
 * **App Development:**
