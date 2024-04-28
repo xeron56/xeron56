@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![Untitled design](https://github.com/xeron56/xeron56/assets/11449967/d8c24d62-9fe9-4d9e-9281-4ada6c1120b2)
+-->
+
+![Frame 1000002457](https://github.com/xeron56/xeron56/assets/11449967/9d67fc6c-204b-4357-a4d8-37a170ed229c)
 
 
 
