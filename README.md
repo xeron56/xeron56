@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **Hi, I'm MD. SHAHIDUL ISLAM! 👋**
 
-I'm a highly skilled Software Engineer with 4+ years of experience in Flutter mobile app development. Passionate about creating beautiful, user-centric interfaces and integrating cutting-edge AI technologies, I'm seeking a Senior role where I can leverage my expertise to architect scalable mobile solutions. 
+I'm a  Software Engineer with 4+ years of experience in Flutter mobile app development. Passionate about creating beautiful, user-centric interfaces and integrating cutting-edge AI technologies, I'm seeking a Senior role where I can leverage my expertise to architect scalable mobile solutions. 
 
 **Skills:**
 
