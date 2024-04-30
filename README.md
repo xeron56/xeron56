@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+I'm seeking a Senior role where I can leverage my expertise to architect scalable mobile solutions. 
 ![Untitled design](https://github.com/xeron56/xeron56/assets/11449967/d8c24d62-9fe9-4d9e-9281-4ada6c1120b2)
 -->
 
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 
 **Hi, I'm MD. SHAHIDUL ISLAM! 👋**
 
-I'm a  Software Engineer with 4+ years of experience in Flutter mobile app development. Passionate about creating beautiful, user-centric interfaces and integrating cutting-edge AI technologies, I'm seeking a Senior role where I can leverage my expertise to architect scalable mobile solutions. 
+I'm a  Software Engineer with 4+ years of experience in Flutter mobile app development. Passionate about creating beautiful, user-centric interfaces and integrating cutting-edge AI technologies, 
 
 **Skills:**
 
