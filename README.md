@@ -88,7 +88,7 @@ I'm a  Software Engineer with 4+ years of experience in Flutter mobile app devel
 * **More Projects:** Explore my full portfolio on GitHub https://xeron56.github.io/  
 
 ## 📫 Contact Me
-- 📮 shahidul1425@cseku.ac.bd
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahidul56/)
 - 🌐 [Portfolio](https://xeron56.github.io/)
 
