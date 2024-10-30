@@ -25,67 +25,9 @@ I'm seeking a Senior role where I can leverage my expertise to architect scalabl
 
 
 
-**Skills:**
-
-* **Languages:** 
-    * Dart (Flutter) 🚀
-    * Kotlin, Swift, Rust/C++ (potential for Dart FFI)
-    * TypeScript (Firebase integration)
-* **App Development:**
-    * Responsive UI/UX design in Flutter 💻
-    * State management (GetX, Provider, Bloc) 📊
-    * REST API integration 🌐
-    * Firebase integration 🔥
-    * Cross-platform development expertise
-* **Machine Learning:**
-    * Neural networks, Deep Learning 🧠
-    * TensorFlow, TensorFlow Lite, Keras, PyTorch 🧪 
-    * AI model integration into Flutter apps 🤖
-
-* **Tools:**
-    * Git, GitHub (Version control) 📚
-    * CI/CD for Flutter 🔄
-    * Docker 🐳
-    * Postman 📬
-      
-<br>
-
-**Pub dev package i developed**
-* **https://pub.dev/publishers/mdshahidulislam.tech/packages**
-
-<br>
-
-**Projects**
-
-* **All Tool Pack - Cam Scanner Clone (Flutter/Dart)**
-    * Powerful Android camera scanner app.
-    * Replicates the functionality of popular scanning apps like CamScanner. 
-	* **Demo URL:** [Play Store](https://play.google.com/store/apps/details?id=com.cool.tools.pack.kit.box.utilitiesapp)
-    
-
-* **TripTailor - AI-Powered Travel App (Flutter/Dart)**
-    * Leverages AI for personalized travel recommendations and planning.
-    * Aims to revolutionize travel experiences.
-    * **Demo URL:** [Preview](https://xeron56.github.io/works/aitravel)
-  
-
-* **AI Video Creator (Flutter/Dart)**
-    * Intuitive mobile app for video generation and editing.
-    * Powered by artificial intelligence and machine learning.
-    * **Demo URL:** [Preview](https://xeron56.github.io/works/aivideo)
-   
-
-* **University Alumni App (Flutter/Dart)**
-    * Connects alumni through detailed profiles, networking features, and AI-powered search.
-    * **Demo URL:** [Preview](https://xeron56.github.io/works/alumni)
 
 
-* **DashCam App with AI Integration (Flutter/Dart)**
-    * Offers advanced driving behavior analysis, accident detection, and real-time video streaming. 
-    * **Demo URL:** [Preview](https://xeron56.github.io/works/dashcam)
 
-
-* **More Projects:** Explore my full portfolio on GitHub https://xeron56.github.io/  
 
 
 
