@@ -23,7 +23,7 @@ I'm seeking a Senior role where I can leverage my expertise to architect scalabl
 
 **Hi, I'm MD. SHAHIDUL ISLAM! 👋**
 
-I'm a  Software Engineer with 4+ years of experience in Flutter mobile app development. Passionate about creating beautiful, user-centric interfaces and integrating cutting-edge AI technologies, 
+I'm a  Software Engineer with years of experience in Flutter mobile app development. Passionate about creating beautiful, user-centric interfaces and integrating cutting-edge AI technologies, 
 
 **Skills:**
 
