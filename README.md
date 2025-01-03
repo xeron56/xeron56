@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 *xeron56/xeron56* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,32 +21,45 @@ I'm seeking a Senior role where I can leverage my expertise to architect scalabl
 
 
 
+
+
 **Hi, I'm MD. SHAHIDUL ISLAM! 👋**
 
-I'm a  Software Engineer experienced in Flutter mobile app development. Passionate about creating beautiful, user-centric interfaces and integrating cutting-edge AI technologies, 
+I'm a **Software Engineer** with 4+ years of experience, specializing in back-end development, machine learning, and mobile app development. My passion lies in delivering innovative, high-performance solutions using modern technologies like **Flutter**, **Dart**, **Python**, **Kotlin**, **Rust**, **TypeScript**, **Go**, and **Swift**.
 
-**Skills:**
+### **Skills & Expertise**
 
-* **Languages:** 
-    * Dart (Flutter) 🚀
-    * Kotlin, Swift, Rust/C++ (potential for Dart FFI)
-    * TypeScript (Firebase integration)
-* **App Development:**
-    * Responsive UI/UX design in Flutter 💻
-    * State management (GetX, Provider, Bloc) 📊
-    * REST API integration 🌐
-    * Firebase integration 🔥
-    * Cross-platform development expertise
-* **Machine Learning:**
-    * Neural networks, Deep Learning 🧠
-    * TensorFlow, TensorFlow Lite, Keras, PyTorch 🧪 
-    * AI model integration into Flutter apps 🤖
+#### **Languages:**
+- **Dart (Flutter):** Expertise in cross-platform mobile app development 🚀
+- **Kotlin & Java:** Backend development with Spring Boot ⚙️
+- **TypeScript:** Proficient with backend frameworks like NestJS and Firebase integration 🔥
+- **Python:** Backend expertise using Django/Flask 🌐
+- **Go:** Skilled in backend development with Gin framework 📈
+- **Swift:** Proficient in iOS app development 📱
+- **Rust & C++:** Advanced experience for Dart FFI integration 💻
 
-* **Tools:**
-    * Git, GitHub (Version control) 📚
-    * CI/CD for Flutter 🔄
-    * Docker 🐳
-    * Postman 📬
+#### **App Development:**
+- Responsive UI/UX design in **Flutter** 💻
+- State management with **GetX, Provider, Bloc** 📊
+- REST API integration and Firebase backend solutions 🌐
+- Cross-platform app development tailored for both iOS and Android 📲
+
+#### **Machine Learning & AI:**
+- Expertise in **TensorFlow, PyTorch**, and **OpenCV** for deep learning and computer vision 🧠
+- Developing AI models and integrating them into Flutter applications 🤖
+- Advanced skills in object recognition, neural networks, and machine learning models 🧪
+
+#### **Tools & Technologies:**
+- **Git & GitHub:** Version control for seamless collaboration 📚
+- **CI/CD:** Ensuring efficient Flutter app delivery 🔄
+- **Docker:** Containerized application development 🐳
+- **Postman:** API testing and development 📬
+
+---
+
+I'm passionate about pushing the boundaries of technology to craft solutions that empower businesses and improve user experiences. Let's connect and build something amazing together! 🌟
+
+
       
 <br>
 
