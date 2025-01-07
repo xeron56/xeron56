@@ -25,7 +25,7 @@ I'm seeking a Senior role where I can leverage my expertise to architect scalabl
 
 **Hi, I'm MD. SHAHIDUL ISLAM! 👋**
 
-I'm a **Software Engineer** with 4+ years of experience, specializing in back-end development, machine learning, and mobile app development. My passion lies in delivering innovative, high-performance solutions using modern technologies like **Flutter**, **Dart**, **Python**, **Kotlin**, **Rust**, **TypeScript**, **Go**, and **Swift**.
+I'm a **Software Engineer** with  years of experience, specializing in back-end development, machine learning, and mobile app development. My passion lies in delivering innovative, high-performance solutions using modern technologies like **Flutter**, **Dart**, **Python**, **Kotlin**, **Rust**, **TypeScript**, **Go**, and **Swift**.
 
 ### **Skills & Expertise**
 
