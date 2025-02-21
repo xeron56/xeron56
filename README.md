@@ -57,9 +57,6 @@ I'm a **Flutter Developer** with  years of experience, specializing in Mobile Ap
 
 ---
 
-I'm passionate about pushing the boundaries of technology to craft solutions that empower businesses and improve user experiences. Let's connect and build something amazing together! 🌟
-
-
       
 <br>
 
@@ -100,11 +97,6 @@ I'm passionate about pushing the boundaries of technology to craft solutions tha
 
 * **More Projects:** Explore my full portfolio on GitHub https://xeron56.github.io/  
 
-Below is an updated version of your GitHub README with an added elegant "Hire Me" section that highlights your availability for new opportunities and includes your Skype ID for contact. Feel free to adjust the Skype ID if needed:
-
-
-
-Below is your updated GitHub README with an enhanced "Hire Me" section featuring emojis and a clickable Skype link that will prompt the user to open Skype:
 
 ---
 
