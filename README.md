@@ -100,6 +100,29 @@ I'm passionate about pushing the boundaries of technology to craft solutions tha
 
 * **More Projects:** Explore my full portfolio on GitHub https://xeron56.github.io/  
 
+Below is an updated version of your GitHub README with an added elegant "Hire Me" section that highlights your availability for new opportunities and includes your Skype ID for contact. Feel free to adjust the Skype ID if needed:
+
+
+
+Below is your updated GitHub README with an enhanced "Hire Me" section featuring emojis and a clickable Skype link that will prompt the user to open Skype:
+
+---
+
+
+
+## Hire Me 🚀💼
+
+I'm actively seeking senior roles where I can leverage my extensive experience in Flutter, backend development, and machine learning to architect scalable, high-performance mobile solutions. If you're looking for a dedicated professional who is passionate about innovation and quality, let's collaborate!
+
+**Contact Me:**
+
+- **Skype:** [Chat with me on Skype](skype:shahiduli935?chat)
+  
+ 
+
+
+
+
 
 
 
