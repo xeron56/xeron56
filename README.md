@@ -108,7 +108,7 @@ I'm actively seeking senior roles where I can leverage my extensive experience i
 
 **Contact Me:**
 
-- **Skype:** [Chat with me on Skype](skype:shahiduli935?chat)
+- **Skype:** [Chat with me on Skype] **shahiduli935**
   
  
 
