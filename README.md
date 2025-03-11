@@ -104,7 +104,7 @@ I'm a **Flutter Developer** with  years of experience, specializing in Mobile Ap
 
 ## Hire Me 🚀💼
 
-I'm actively seeking senior roles where I can leverage my extensive experience in Flutter, backend development, and machine learning to architect scalable, high-performance mobile solutions. If you're looking for a dedicated professional who is passionate about innovation and quality, let's collaborate!
+I'm actively seeking  roles where I can leverage my extensive experience in Flutter, backend development, and machine learning to architect scalable, high-performance mobile solutions. If you're looking for a dedicated professional who is passionate about innovation and quality, let's collaborate!
 
 **Contact Me:**
 
